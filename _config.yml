@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Configurations
 title:            Jekyll Gitbook
 longtitle:        Jekyll Gitbook
@@ -64,3 +65,8 @@ plugins:
   - jekyll-feed
   - jekyll-readme-index
   - jemoji
+=======
+theme: jekyll-theme-minimal
+title: ADViCE
+description: this is the ADViCE trial
+>>>>>>> 298febe4d1a6ebd0e8a37236aceb0197d877261c
